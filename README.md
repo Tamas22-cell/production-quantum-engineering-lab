@@ -1,3 +1,4 @@
+![Production Quantum Engineering Lab](./67ee54b7-e7b7-4370-9acf-20279b98413a.png)
 
 # Production Quantum Engineering Lab
 
